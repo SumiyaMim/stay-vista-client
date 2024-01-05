@@ -10,6 +10,7 @@ A hotel booking website built using MERN stack.
 
 - HTML
 - Tailwind CSS
+- Headless UI
 - Javascript
 - React.js
 - Firebase
